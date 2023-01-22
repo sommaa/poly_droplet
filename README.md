@@ -1,6 +1,6 @@
 # poly_droplet
 
-Mathematical modeling of a droplet of monomer polymerizing in water; central differentiation scheme, ode15s.
+Mathematical modeling of a droplet of monomer polymerizing in water; central differentiation scheme, integral boundary condition, ode15s.
 
 Reference paper: [Mass transport and modeling of emulsion phase-inversion coating of hydrogel beads](https://doi.org/10.1016/j.ces.2004.12.013)
 
